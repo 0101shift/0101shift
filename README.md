@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0101shift
+- 👋 Hi, I’m Anand M
 - 👀 I’m interested in Hardware design, Prototyping, Digital arts
 - 🌱 I’m currently learning Hardware design
 - 💞️ I’m looking to collaborate on product level design or protoyping
