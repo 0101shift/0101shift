@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand M
 - 👀 I’m interested in Hardware design, Prototyping, Digital arts & Space Tech
-- 🌱 I’m currently exploring Hardware design
-- 💞️ I’m looking to collaborate on product-level design or protoyping or POC
+- 🌱 I’m currently exploring Product design
+- 💞️ I’m looking to collaborate on product-level design or prototyping or POC
 - 📫 How to reach me anand.m.91197@gmail.com
 
 <!---
