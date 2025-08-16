@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anand M
 
-💡 **Hardware Designer | Product Development | Digital Artist | Space Tech Enthusiast**
+💡 **Hardware Designer | Product Development | Space Tech Enthusiast**
 
 ---
 
